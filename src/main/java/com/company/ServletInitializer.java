@@ -1,4 +1,4 @@
-package com.example.Lab4;
+package com.company;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
